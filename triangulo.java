@@ -1,11 +1,9 @@
 package diagramas.de.fujo;
+
 import java.util.Scanner;
+// comentario
 public class triangulo {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-//Trabajo en clase
-	//Comentario
-	
+
 	public static void main(String[] args) {
 		Scanner pr = new Scanner(System.in);
 		System.out.println("ingrese un numero numero");
